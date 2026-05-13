@@ -24,3 +24,4 @@ This project bridges the gap between raw data analysis and actionable business i
 * **Environment:** Google Colab & Localtunnel for cloud-based deployment
 
 ## 📸 Dashboard Preview
+<img width="1115" height="682" alt="AI Workforce Risk Calculator" src="https://github.com/user-attachments/assets/d8d93bae-c1f9-4c90-bcda-3eb8470e6d79" />
