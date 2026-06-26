@@ -1,4 +1,4 @@
-# 🌐 AI Workforce Risk & Opportunity Calculator (2020-2026)
+# AI Workforce Risk & Opportunity Calculator (2020-2026)
 
 An interactive data tool built with **Python** and **Streamlit** that analyzes global workforce displacement risks and the economic "wage premium" of AI upskilling across 10+ industry sectors.
 
